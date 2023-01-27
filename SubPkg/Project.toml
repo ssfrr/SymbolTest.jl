@@ -1,0 +1,7 @@
+name = "SubPkg"
+uuid = "6bb3d23c-de9e-4442-a3fa-b3bb8b8c7021"
+authors = ["Spencer Russell <spencer.russell@beacon.bio>"]
+version = "0.1.0"
+
+[deps]
+SymbolTest = "f6e3900e-0e5c-4d50-ae87-7ba54b61373f"
